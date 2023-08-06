@@ -6,6 +6,6 @@ Create form in pocketmine
 projects:
   YourProject:
     libs:
-      - src: BeeAZ/FormBuilderX/FormBuilderX
+      - src: BeeAZ-pm-pl/FormBuilderX/FormBuilderX
         version: ^1.0.0
 ```
